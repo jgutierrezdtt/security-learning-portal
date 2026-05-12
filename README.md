@@ -2,7 +2,11 @@
 
 Portal central de la plataforma de tutoriales de seguridad.
 
-Este portal reúne el catálogo de cursos, su versión, su nivel de dificultad, el tiempo estimado y los enlaces para crear cada repositorio desde template.
+Este portal reúne el catálogo de cursos, su versión, su nivel de dificultad, el tiempo estimado y los enlaces para crear cada repositorio desde template. El objetivo es que cualquier usuario encuentre rápidamente el tutorial adecuado, verifique la versión publicada y acceda al laboratorio correspondiente sin perder contexto.
+
+Este repositorio se publicará con GitHub Pages en:
+
+- [security-learning-portal en GitHub Pages](https://jgutierrezdtt.github.io/security-learning-portal/)
 
 ## Objetivos
 
@@ -19,6 +23,8 @@ Este portal reúne el catálogo de cursos, su versión, su nivel de dificultad, 
 [Ver repositorios](./catalog/repositories.yml)
 
 [Ver versiones](./catalog/versions.json)
+
+[Abrir el portal publicado](https://jgutierrezdtt.github.io/security-learning-portal/)
 
 [Crear un repositorio desde template](https://github.com/new)
 
