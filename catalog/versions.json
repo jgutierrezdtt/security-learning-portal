@@ -1,0 +1,19 @@
+{
+  "template-slsa-supply-chain-foundations": "0.1.0",
+  "template-slsa-supply-chain-professional": "0.1.0",
+  "template-sast-opengrep-professional": "0.1.0",
+  "template-sast-opengrep-advanced-10": "0.1.0",
+  "template-sca-dependabot-professional": "0.1.0",
+  "template-sca-dependabot-advanced-10": "0.1.0",
+  "template-iac-security-foundations": "0.1.0",
+  "template-container-security-foundations": "0.1.0",
+  "template-security-as-code": "0.1.0",
+  "template-dast-security-professional": "0.1.0",
+  "template-runtime-security-professional": "0.1.0",
+  "template-mlops-security-professional": "0.1.0",
+  "template-owasp-top-10-2025-web": "0.1.0",
+  "template-owasp-mobile-security": "0.1.0",
+  "template-owasp-api-security": "0.1.0",
+  "template-owasp-llm-security": "0.1.0",
+  "security-learning-portal": "0.1.0"
+}

@@ -1,0 +1,86 @@
+repositories:
+  - name: template-slsa-supply-chain-foundations
+    category: supply-chain
+    level: foundations
+    steps: 10
+    status: planned
+  - name: template-slsa-supply-chain-professional
+    category: supply-chain
+    level: professional
+    steps: 30
+    status: planned
+  - name: template-sast-opengrep-professional
+    category: sast
+    level: professional
+    steps: 30
+    status: planned
+  - name: template-sast-opengrep-advanced-10
+    category: sast
+    level: advanced
+    steps: 10
+    status: planned
+  - name: template-sca-dependabot-professional
+    category: sca
+    level: professional
+    steps: 30
+    status: planned
+  - name: template-sca-dependabot-advanced-10
+    category: sca
+    level: advanced
+    steps: 10
+    status: planned
+  - name: template-iac-security-foundations
+    category: iac
+    level: foundations
+    steps: 10
+    status: planned
+  - name: template-container-security-foundations
+    category: containers
+    level: foundations
+    steps: 10
+    status: planned
+  - name: template-security-as-code
+    category: security-as-code
+    level: advanced
+    steps: 20
+    status: planned
+  - name: template-dast-security-professional
+    category: dast
+    level: professional
+    steps: 25
+    status: planned
+  - name: template-runtime-security-professional
+    category: runtime
+    level: professional
+    steps: 15
+    status: planned
+  - name: template-mlops-security-professional
+    category: mlops
+    level: professional
+    steps: 30
+    status: planned
+  - name: template-owasp-top-10-2025-web
+    category: owasp-web
+    level: professional
+    steps: 50
+    status: planned
+  - name: template-owasp-mobile-security
+    category: owasp-mobile
+    level: professional
+    steps: 30
+    status: planned
+  - name: template-owasp-api-security
+    category: owasp-api
+    level: professional
+    steps: 30
+    status: planned
+  - name: template-owasp-llm-security
+    category: owasp-llm
+    level: professional
+    steps: 30
+    status: planned
+  - name: security-learning-portal
+    category: portal
+    level: core
+    steps: 0
+    status: active
